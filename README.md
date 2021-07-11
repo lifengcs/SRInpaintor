@@ -1,2 +1,2 @@
 # SRInpaintor
-This code will coming soon
+This code will come soon
